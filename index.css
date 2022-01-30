@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+}
+#tab {
+
+border-collapse: collapse;
+/* width: 100%; */
+margin-left: 3%;
+}
+
+#tab td, #tab th {
+border: 2px solid rgb(36, 139, 105);
+padding: 8px;
+}
+
+#tab th {
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+background-color: #995be0;
+color: cornsilk;
+}
+#tab td{
+text-align: center;
+}
+
+table{
+border-radius: solid red 10px;
+}
+h2{
+text-align: center;
+color: rgb(197, 36, 36);
+text-decoration: underline;
+font-size: 50px;
+}
